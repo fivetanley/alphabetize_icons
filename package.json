@@ -1,0 +1,7 @@
+{
+  "name": "alphabetize-icons",
+  "dependencies": {
+    "cheerio": "~0.12.1",
+    "lodash": "~1.3.1"
+  }
+}
